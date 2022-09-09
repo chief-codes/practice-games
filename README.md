@@ -1,2 +1,2 @@
 # practice-games
-Just some random games I tried
+Just some random python games and programs
